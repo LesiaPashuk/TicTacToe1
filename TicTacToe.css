@@ -1,0 +1,82 @@
+#areaTicTacToe{
+    margin-left: 32.5%;
+    width: 504px;
+    height: 504px;
+    margin-top: 50px !important;
+    border: 1px solid rgb(255, 78, 78);
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+    margin-top: 25px;
+    
+}
+#area1{
+    /*border: 1px solid rgb(189, 24, 24);*/
+    width: 168px;
+    height: 168px;
+    border: (0 1px 0 0) solid rgb(0, 0, 0);
+}
+#area2{
+    border: 1px solid rgb(220, 147, 88);
+    width: 168px;
+    height: 168px;
+}#area3{
+    border: 1px solid rgb(213, 220, 88);
+    width: 168px;
+    height: 168px;
+}
+#area4{
+    border: 1px solid rgb(88, 211, 220);
+    width: 168px;
+    height: 168px;
+    margin-left: 169px;
+    margin-top: -508.5px;
+}
+#area5{
+    border: 1px solid rgb(114, 88, 220);
+    width: 168px;
+    height: 168px;
+    margin-left: 169px;
+    
+}
+#area6{
+    border: 1px solid rgb(183, 12, 226);
+    width: 168px;
+    height: 168px;
+    margin-left: 169px;
+    
+    
+}
+#area7{
+    border: 1px solid rgb(226, 12, 172);
+    width: 168px;
+    height: 168px;
+    margin-left: 338px;
+    margin-top: -509px;
+    
+}
+#area8{
+    border: 1px solid rgb(226, 12, 80);
+    width: 168px;
+    height: 168px;
+    margin-left: 338px;
+}
+#area9{
+    border: 1px solid rgb(226, 12, 12);
+    width: 168px;
+    height: 168px;
+    margin-left: 338px;
+}
+#imgCross{
+    width: 50px;
+    height: 50px;
+    margin-top: 34%;
+    margin-left: 34%;
+}
+#imgCircle{
+    width: 50px;
+    height: 50px;
+    margin-top: 34%;
+    margin-left: 34%;
+}
